@@ -1,16 +1,65 @@
 {
-    "users": [
-
+    "users": [{
+            "name": "kiran",
+            "id": 1,
+            "mail": "kiran@mail.com",
+            "password": "kiran"
+        },
+        {
+            "name": "test",
+            "id": 2,
+            "mail": "test@mail.com",
+            "password": "test"
+        },
+        {
+            "name": "das",
+            "id": 3,
+            "mail": "das@mail.com",
+            "password": "das"
+        }
     ],
-    "accounts": [
-
-    ],
-    "transactions": [
-
-    ],
-    "payees":[
-        
+    "profiles": [{
+        "uid": 909,
+        "name": "test",
+        "email": "test@mail.com",
+        "fullname": "test",
+        "company": "tester"
+    }],
+    "tasks": [{
+            "task": "do task 1",
+            "id": 1,
+            "created_by": "test",
+            "priority": "high",
+            "status": "completed"
+        },
+        {
+            "task": "do task 2",
+            "id": 1,
+            "created_by": "test",
+            "priority": "medium",
+            "status": "ongoing"
+        },
+        {
+            "task": "do task 3",
+            "id": 1,
+            "created_by": "test",
+            "priority": "low",
+            "status": "upcoming"
+        },
+        {
+            "task": "do task 4",
+            "id": 1,
+            "created_by": "test",
+            "priority": "low",
+            "status": "ongoing"
+        },
+        {
+            "task": "do task 5",
+            "id": 1,
+            "created_by": "test",
+            "priority": "high",
+            "status": "completed"
+        }
     ]
-    
 
 }
