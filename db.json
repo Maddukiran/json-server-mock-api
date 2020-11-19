@@ -16,9 +16,20 @@
             "id": 3,
             "email": "das@mail.com",
             "password": "das"
+        },
+        {
+            "email": "maddu@mail.com",
+            "name": "maddu",
+            "password": "maddu123",
+            "id": 5
         }
     ],
-    "profiles": [],
+    "profiles": [{
+        "userId": 5,
+        "company": "sify",
+        "gitname": "kiran123",
+        "id": 2
+    }],
     "tasks": [{
             "task": "do task 1",
             "id": 1,
