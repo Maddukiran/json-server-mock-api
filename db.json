@@ -2,19 +2,19 @@
     "users": [{
             "name": "kiran",
             "id": 1,
-            "mail": "kiran@mail.com",
+            "email": "kiran@mail.com",
             "password": "kiran"
         },
         {
             "name": "test",
             "id": 2,
-            "mail": "test@mail.com",
+            "email": "test@mail.com",
             "password": "test"
         },
         {
             "name": "das",
             "id": 3,
-            "mail": "das@mail.com",
+            "email": "das@mail.com",
             "password": "das"
         }
     ],
