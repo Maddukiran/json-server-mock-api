@@ -18,13 +18,7 @@
             "password": "das"
         }
     ],
-    "profiles": [{
-        "uid": 909,
-        "name": "test",
-        "email": "test@mail.com",
-        "fullname": "test",
-        "company": "tester"
-    }],
+    "profiles": [],
     "tasks": [{
             "task": "do task 1",
             "id": 1,
